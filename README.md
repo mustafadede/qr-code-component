@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [](https://mustafadede.github.io/qr-code-component/)
+- Live Site URL: [Click here](https://mustafadede.github.io/qr-code-component/)
 
 ### Built with
 
@@ -32,6 +32,6 @@ I will add mobile view to this. For now it's only desktop.
 
 ## Author
 
-- Github - [Mustafa Dede](github.com/mustafadede))
+- Github - [Mustafa Dede](github.com/mustafadede)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mustafadede)
 - Linkedin - [Mustafa Dede](linkedin.com/in/mustafa-dede-9a38a1192/)

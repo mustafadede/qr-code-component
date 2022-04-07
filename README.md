@@ -33,5 +33,5 @@ I will add mobile view to this. For now it's only desktop.
 ## Author
 
 - Github - [Mustafa Dede](github.com/mustafadede)
-- Frontend Mentor - [@ymustafadede](https://www.frontendmentor.io/profile/mustafadede)
+- Frontend Mentor - [@mustafadede](https://www.frontendmentor.io/profile/mustafadede)
 - Linkedin - [Mustafa Dede](linkedin.com/in/mustafa-dede-9a38a1192/)
